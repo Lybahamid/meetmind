@@ -19,10 +19,18 @@ MeetMind is a sophisticated, AI-powered meeting analysis tool designed to transf
 
 ## Tech Stack
 
-- **Frontend**: React 18, Vite, TypeScript, Tailwind CSS, Motion (for animations), Lucide React.
-- **Backend**: Node.js, Express, tsx.
-- **AI**: Google Gemini 1.5/3.5.
-- **State**: Custom React Hooks for domain-specific logic.
+### Frontend
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+
+
+### AI
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google&logoColor=white)
+
+### State Management
+![React Hooks](https://img.shields.io/badge/React%20Hooks-Custom-61DAFB?logo=react&logoColor=white)
 
 ## Project Structure
 
