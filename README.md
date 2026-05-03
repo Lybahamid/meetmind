@@ -17,6 +17,12 @@ MeetMind is a sophisticated, AI-powered meeting analysis tool designed to transf
 - **System Telemetry**: Custom backend tracking for AI performance (latency, token volume) to demonstrate production readiness.
 - **Modular Architecture**: Clean separation of concerns with domain-driven components and custom React hooks.
 
+## Diagram 1 - Data Flow
+![alt text](imgs/image-1.png)
+
+## Diagram 2 - Project Structure
+![alt text](imgs/image-5.png)
+
 ## Tech Stack
 
 ### Frontend
