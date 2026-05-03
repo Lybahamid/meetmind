@@ -72,3 +72,5 @@ MeetMind is a sophisticated, AI-powered meeting analysis tool designed to transf
 
 ---
 *Created as a showcase of modern Full-Stack AI development.*
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
