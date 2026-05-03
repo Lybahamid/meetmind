@@ -1,11 +1,11 @@
 # MeetMind: Intelligence Layer for Meetings
 
 
-![alt text](/imgs/image-4.png)
+![alt text](imgs/image-4.png)
 
-![alt text](/imgs/image-2.png)
+![alt text](imgs/image-2.png)
 
-![alt text](/imgs/image-3.png)
+![alt text](imgs/image-3.png)
 
 MeetMind is a sophisticated, AI-powered meeting analysis tool designed to transform raw dialogue into actionable organizational intelligence. Built with a modular React architecture and a clean Express/Node.js backend, it leverages Google Gemini 1.5 to provide deep context, objective health scoring, and instant Q&A context.
 
